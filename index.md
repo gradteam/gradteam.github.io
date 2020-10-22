@@ -11,5 +11,5 @@ PANDETECT is an application that will detect whether people in a particular area
 * Selen Uysal [github](https://github.com/selenuysal)
 * Ufuk Bombar [github](https://github.com/ubombar)
 
-## Project Reports
+## Project Reports 
 * [Project Specifications Report](https://pandetect.github.io/reports/Project_Specifications_Report.pdf)
