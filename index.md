@@ -12,4 +12,4 @@ PANDETECT is an application that will detect whether people in a particular area
 * Ufuk Bombar [github](https://github.com/ubombar)
 
 ## Project Reports
-* ```TBD```
+* [Project Specifications Report](https://pandetect.github.io/reports/Project_Specifications_Report.pdf)
