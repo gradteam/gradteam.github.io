@@ -14,4 +14,5 @@ PANDETECT is an application that will detect whether people in a particular area
 ## Project Reports 
 * [Project Specifications Report](https://pandetect.github.io/reports/Project_Specifications_Report.pdf)
 * [Project Analysis Report](https://pandetect.github.io/reports/Project_Analysis_Report.pdf)
+* [Project High Level Design Report](https://pandetect.github.io/reports/Project_HLDesign_Report.pdf)
 
